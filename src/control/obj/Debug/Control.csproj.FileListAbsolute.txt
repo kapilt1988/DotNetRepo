@@ -1,0 +1,1 @@
+C:\openshift\installer\cartridges\dotnet\bin\control.exe.config
